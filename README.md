@@ -8,7 +8,7 @@ This project is for the executive team of a retail bike company based in the Uni
 #### Further Details:
 I used SQL, Excel and Tableau for this project. 
 
-To get access to the full project where i state details of the processes i used in the analysis, kindly use this 
+To get access to the full project where i state details of the processes i used in the analysis, kindly use this https://medium.com/@morteyandrews/a-complete-data-analytics-project-the-bike-company-case-study-d0c8d4ccd367
 
 
 To view my data visualization, kindly go here 
